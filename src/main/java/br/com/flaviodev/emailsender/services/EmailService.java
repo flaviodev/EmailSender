@@ -1,4 +1,4 @@
-package br.com.flaviodev.EmailSender.services;
+package br.com.flaviodev.emailsender.services;
 
 import org.apache.commons.mail.DefaultAuthenticator;
 import org.apache.commons.mail.Email;
